@@ -7,8 +7,10 @@
 
 .section1{
     background-color: tomato;
+    padding: 100px;
 }
 
 .section2 {
     background-color: chocolate;
+    padding: 100px;
 }
