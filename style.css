@@ -1,19 +1,24 @@
+.corpodosite{
+    color: rgb(49, 59, 0);
+}
+
 .cabecalho{
-    background-color: green;
+    background-image: linear-gradient(green,white);
     color: black;
     display: flex;
     padding: 24px 0;
 }
 
 .section1{
-    background-color: tomato;
+    background-image: linear-gradient(white,green);
     padding: 100px;
 }
 
 .section2 {
-    background-color: chocolate;
+    background-image: linear-gradient(green,white);
     padding: 100px;
 }
 .rodape {
+    background-image: linear-gradient(white,green);
     color: #000;
 }
